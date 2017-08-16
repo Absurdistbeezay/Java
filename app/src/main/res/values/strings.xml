@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Favorite Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_movie">Find Movie!</string>
+    <string name="movies"></string>
+
+    <string-array name="movie_names">
+        <item>Saving Private Ryan</item>
+        <item>Godfather</item>
+        <item>Good Fellas</item>
+        <item>Raging Bull</item>
+        <item>The Dark Knight</item>
+
+
+    </string-array>
+</resources>
